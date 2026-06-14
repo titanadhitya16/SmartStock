@@ -1,2 +1,0 @@
-# SmartStock
-# SmartStock
